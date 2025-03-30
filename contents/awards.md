@@ -1,12 +1,7 @@
+- National Encouragement Scholarship (1 time), 2023
 
-- First-prize Scholarship of CUMT, 2024.
+- University Comprehensive Scholarship (Second Class), 2023
 
-- First-prize Scholarship of CUMT, 2023.
+- University Comprehensive Scholarship (Third Class), 2024
 
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Science and Innovation Scholarship, 2024
