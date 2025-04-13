@@ -7,13 +7,14 @@
 东北大学（秦皇岛）| 计算机科学与技术| 2026届
 GPA  4.1399/5.0    绩点排名 21/191
 
-##### 主修课程
+#### 主修课程
 高等数学（98），概率论与数理统计（98），C++（98），数据库原理（98），汇编语言（96），软件工程（93）
 
 #### 科创经历
 暂时空着，之后回来填
 
 #### 项目经历
+暂时空着，之后回来填
 
 #### 实践经历
 校“东弈棋牌俱乐部”部门负责人   
@@ -28,5 +29,26 @@ GPA  4.1399/5.0    绩点排名 21/191
 蓝桥杯全国软件和信息技术专业人才大赛省级三等奖<br>
 
 #### 荣誉证书
-<img src='../img/1.jpg' width=300>
-![荣誉证书](../img/2.jpg)
+<!-- 奖学金、比赛、荣誉称号、社会工作、 -->
+<!-- 奖学金 -->
+<img src='../img/1.jpg' width='600'>
+<img src='../img/2.jpg' width='600'>
+<img src='../img/3.jpg' width='600'>
+<!-- 比赛 -->
+<img src='../img/4.jpg' width='600'>
+<img src='../img/5.jpg' width='600'>
+<img src='../img/6.jpg' width='600'>
+<!-- 荣誉称号 -->
+<img src='../img/7.jpg' width='600'>
+<img src='../img/8.jpg' width='600'>
+<img src='../img/9.jpg' width='600'>
+<!-- 社会工作 -->
+<img src='../img/10.jpg' width='600'>
+<img src='../img/11.jpg' width='600'>
+<img src='../img/12.jpg' width='600'>
+<img src='../img/13.jpg' width='600'>
+<img src='../img/14.jpg' width='600'>
+<!-- 考级证书 -->
+<img src='../img/15.jpg' width='600'>
+<img src='../img/16.jpg' width='600'>
+<img src='../img/17.jpg' width='600'>
