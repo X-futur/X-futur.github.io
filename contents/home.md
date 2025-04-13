@@ -1,5 +1,5 @@
 <!-- 两个徽标 -->
-[![X-futur](https://img.shields.io/badge/ZhangYubin-github-blue?logo=github)](https://github.com/X-futur)
+[![X-futur](https://img.shields.io/badge/ZhangYubin-GitHub-blue?logo=github)](https://github.com/X-futur)
 [![X-future426](https://img.shields.io/badge/ZhangYubin-CSDN-orange?logo=csdn)](https://blog.csdn.net/2302_80777118?spm=1000.2115.3001.5343)
 
 #### 教育背景
