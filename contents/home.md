@@ -35,7 +35,7 @@ GPA  4.1399/5.0    绩点排名 21/191
 <img src='../img/2.jpg' width='600'>
 <img src='../img/3.jpg' width='600'>
 <!-- 比赛 -->
-奖学金证书<br>
+比赛获奖证书<br>
 <img src='../img/4.jpg' width='600'>
 <img src='../img/5.jpg' width='600'>
 <img src='../img/6.jpg' width='600'>
