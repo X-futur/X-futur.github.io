@@ -31,36 +31,36 @@ GPA  4.1399/5.0    绩点排名 21/191
 <!-- 奖学金、比赛、荣誉称号、社会工作、 -->
 <!-- 奖学金 -->
 奖学金证书<br>
-<img src='../img/1.jpg' width='600'>
-<img src='../img/2.jpg' width='600'>
-<img src='../img/3.jpg' width='600'>
+<img src='../img/1.jpg' width='350'>
+<img src='../img/2.jpg' width='350'>
+<img src='../img/3.jpg' width='350'>
 <!-- 比赛 -->
 比赛获奖证书<br>
-<img src='../img/4.jpg' width='600'>
-<img src='../img/5.jpg' width='600'>
-<img src='../img/6.jpg' width='600'>
+<img src='../img/4.jpg' width='350'>
+<img src='../img/5.jpg' width='350'>
+<img src='../img/6.jpg' width='350'>
 <!-- 荣誉称号 -->
 荣誉称号证书<br>
-<img src='../img/7.jpg' width='600'>
-<img src='../img/8.jpg' width='600'>
-<img src='../img/9.jpg' width='600'>
+<img src='../img/7.jpg' width='350'>
+<img src='../img/8.jpg' width='350'>
+<img src='../img/9.jpg' width='350'>
 <!-- 社会工作 -->
 社会实践证书<br>
-<img src='../img/10.jpg' width='600'>
-<img src='../img/11.jpg' width='600'>
-<img src='../img/12.jpg' width='600'>
-<img src='../img/13.jpg' width='600'>
-<img src='../img/14.jpg' width='600'>
+<img src='../img/10.jpg' width='350'>
+<img src='../img/11.jpg' width='350'>
+<img src='../img/12.jpg' width='350'>
+<img src='../img/13.jpg' width='350'>
+<img src='../img/14.jpg' width='350'>
 <!-- 考级证书 -->
 专业能力证书<br>
-<img src='../img/15.jpg' width='600'>
-<img src='../img/15.1.jpg' width='600'>
-<img src='../img/16.jpg' width='600'>
-<img src='../img/17.jpg' width='600'>
+<img src='../img/15.jpg' width='350'>
+<img src='../img/15.1.jpg' width='350'>
+<img src='../img/16.jpg' width='350'>
+<img src='../img/17.jpg' width='350'>
 <!-- 班级荣誉 -->
 班级荣誉证书<br>
-<img src='../img/18.jpg' width='600'>
-<img src='../img/19.jpg' width='600'>
-<img src='../img/20.jpg' width='600'>
-<img src='../img/21.jpg' width='600'>
-<img src='../img/22.jpg' width='600'>
+<img src='../img/18.jpg' width='350'>
+<img src='../img/19.jpg' width='350'>
+<img src='../img/20.jpg' width='350'>
+<img src='../img/21.jpg' width='350'>
+<img src='../img/22.jpg' width='350'>
