@@ -32,7 +32,6 @@ GPA  4.1399/5.0 | 绩点排名 22/191<br>
 
 #### 项目经历
 ##### 1.学成在线静态界面开发
-<b>部署地址</b>：https://xuechengzaixian666.netlify.app/<br>
 <b>代码地址</b>：https://github.com/X-futur/xuechengzaixian<br>
 <b>项目简介</b>：根据提供的psd设计稿，基于`HTML、CSS`进行“学成在线”课程网站的界面开发和绘制<br>
 <b>项目特性</b>：采用语义化`HTML`标签、优化`SEO`三大标签提升可读性与SEO友好性。页面分模块开发（导航、轮播图、课程卡片等），代码结构清晰。通过`CSS3`生成动画（如过渡效果、悬浮特效）增强用户体验。遵循`W3C`标准，兼容主流浏览器（Chrome、Firefox、IE8及以上等）。<br>
@@ -40,7 +39,6 @@ GPA  4.1399/5.0 | 绩点排名 22/191<br>
 <img src='../img/xuechengzaixian666.netlify.app_.png' width='1000'>
 
 ##### 2.小兔鲜静态界面开发
-<b>部署地址</b>：https://xiaotuxian.netlify.app/<br>
 <b>代码地址</b>：https://github.com/X-futur/xiaotuxian<br>
 <b>项目简介</b>：基于`HTML、CSS、Javascript`等进行“小兔鲜”电商购物网站的界面开发和绘制<br>
 <b>项目特性</b>：模拟生鲜电商平台（如商品展示、购物车、分类导航），聚焦电商常见UI组件开发。页面实现`模块化开发`，封装通用组件，代码结构清晰易懂。通过原生`JavaScript`实现动态功能（如轮播图支持自动切换等）。<br>
